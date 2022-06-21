@@ -98,9 +98,6 @@ public class CalculoDNITest {
         //Obtenim els números
         List<Integer> listNum = dnis.keySet().stream().toList();
 
-        //Obtenim les lletres
-        List<String> listLletra = dnis.values().stream().toList();
-
         //Fem el test
         return listNum.stream()
                 .map(num -> DynamicTest.dynamicTest("Comprovant: " + num, () -> {
