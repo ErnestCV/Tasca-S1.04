@@ -1,4 +1,5 @@
-package org.n1ex2;
+package org.n3ex1;
+
 public class Main {
     public static void main(String[] args) {
 

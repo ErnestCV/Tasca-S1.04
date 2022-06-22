@@ -1,6 +1,4 @@
 package org.n1ex2;
-
-import java.util.HashMap;
 public class CalculoDNI {
 
     public static String calculDNI(int num) throws DNINoValidException{

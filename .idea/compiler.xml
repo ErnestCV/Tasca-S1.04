@@ -8,13 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="n1ex3" />
         <module name="n1ex2" />
+        <module name="n2ex1" />
         <module name="n1ex1" />
+        <module name="n3ex1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="n1ex1" target="18" />
-      <module name="n1ex2" target="18" />
-      <module name="n1ex3" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>

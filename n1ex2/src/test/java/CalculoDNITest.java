@@ -1,8 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.DynamicTest;
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.TestFactory;
+
+import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.function.ThrowingConsumer;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
@@ -16,9 +14,9 @@ import java.util.List;
 import java.util.function.Function;
 import java.util.stream.Stream;
 
-
-
 public class CalculoDNITest {
+
+    private HashMap<Integer, String> dnis;
 
     @Test
     @DisplayName("Excepció amb num no vàlid")
@@ -35,7 +33,7 @@ public class CalculoDNITest {
 
     @TestFactory
     @DisplayName("Provem diferents nombres v1")
-    Stream<DynamicTest> DNILletraMultipleVersio1() {
+    public Stream<DynamicTest> DNILletraMultipleVersio1() {
 
         //Referència: https://www.baeldung.com/junit5-dynamic-tests
 

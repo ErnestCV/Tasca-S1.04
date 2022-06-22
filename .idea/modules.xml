@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Tasca-S1.04.iml" filepath="$PROJECT_DIR$/.idea/Tasca-S1.04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/n1ex1/n1ex1.iml" filepath="$PROJECT_DIR$/n1ex1/n1ex1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/n1ex2/n1ex2.iml" filepath="$PROJECT_DIR$/n1ex2/n1ex2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/n1ex3/n1ex3.iml" filepath="$PROJECT_DIR$/n1ex3/n1ex3.iml" />
     </modules>
   </component>
 </project>
