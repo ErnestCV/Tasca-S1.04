@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2c4da15-f4f0-4cb4-85c3-382c1b1bb263" name="Changes" comment="Versió revisada">
-      <change afterPath="$PROJECT_DIR$/n3ex2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex2/src/main/java/org/n3ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex2/src/main/java/org/n3ex2/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex2/src/test/java/ComparaReferenciaObjectesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex3/src/main/java/org/n3ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex3/src/test/java/ComparaArrayEntersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex4/src/main/java/org/n3ex4/Cotxe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex4/src/main/java/org/n3ex4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex4/src/main/java/org/n3ex4/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n3ex4/src/test/java/OrdreObjectesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex5/src/main/java/org/n3ex5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex5/src/test/java/MapKeyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex6/src/main/java/org/n3ex6/ExceptionProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex6/src/main/java/org/n3ex6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex6/src/test/java/ArrayIndexOutOfBoundsExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex7/src/main/java/org/n3ex7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex7/src/test/java/OptionalBuitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n3ex1/src/test/java/comparaObjectesIgualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/n3ex1/src/test/java/ComparaObjectesIgualsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n3ex1/target/test-classes/Test1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,16 +60,16 @@
     "jdk.selected.JAVA_MODULE": "18",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "android.project.structure"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.OrdreObjectesTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.n3ex3.Main" />
-      <module name="n3ex3" />
+  <component name="RunManager" selected="JUnit.OptionalBuitTest">
+    <configuration name="org.n3ex5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.n3ex5.Main" />
+      <module name="n3ex5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.n3ex3.*" />
+          <option name="PATTERN" value="org.n3ex5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,28 +77,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparaArrayEntersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="n3ex3" />
+    <configuration name="ArrayIndexOutOfBoundsExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="n3ex6" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ComparaArrayEntersTest" />
+      <option name="MAIN_CLASS_NAME" value="ArrayIndexOutOfBoundsExceptionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparaObjectesIgualsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="n3ex1" />
+    <configuration name="MapKeyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="n3ex5" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ComparaObjectesIgualsTest" />
+      <option name="MAIN_CLASS_NAME" value="MapKeyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparaReferenciaObjectesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="n3ex2" />
+    <configuration name="OptionalBuitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="n3ex7" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ComparaReferenciaObjectesTest" />
+      <option name="MAIN_CLASS_NAME" value="OptionalBuitTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OptionalBuitTest" />
+        <item itemvalue="JUnit.ArrayIndexOutOfBoundsExceptionTest" />
+        <item itemvalue="JUnit.MapKeyTest" />
+        <item itemvalue="Application.org.n3ex5.Main" />
         <item itemvalue="JUnit.OrdreObjectesTest" />
-        <item itemvalue="JUnit.ComparaArrayEntersTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.ComparaObjectesIgualsTest" />
-        <item itemvalue="JUnit.ComparaReferenciaObjectesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655888294796</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Versió revisada">
+      <created>1655892095198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655892095198</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Versió revisada">
+      <created>1655892110432</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655892110432</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

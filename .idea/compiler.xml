@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="n1ex3" />
+        <module name="n3ex6" />
         <module name="n1ex2" />
+        <module name="n3ex7" />
         <module name="n3ex4" />
+        <module name="n3ex5" />
         <module name="n2ex1" />
         <module name="n3ex2" />
         <module name="n3ex3" />
