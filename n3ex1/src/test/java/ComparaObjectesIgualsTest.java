@@ -1,10 +1,10 @@
 import static org.assertj.core.api.Assertions.*;
 
+import org.junit.jupiter.api.Test;
 import org.n3ex1.Persona;
 import org.n3ex1.PersonaEquals;
-import org.testng.annotations.Test;
 
-public class comparaObjectesIgualsTest {
+public class ComparaObjectesIgualsTest {
 
     @Test
     void equalStrings() {
