@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2c4da15-f4f0-4cb4-85c3-382c1b1bb263" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n2ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n2ex1/src/main/java/org/n2ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n2ex1/src/test/java/StringLengthMatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n2ex1/src/test/java/StringLengthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex1/src/main/java/org/n3ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex1/src/main/java/org/n3ex1/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex1/src/main/java/org/n3ex1/PersonaEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n3ex1/src/test/java/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex1/n1ex1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/n1ex2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/src/main/java/org/n1ex2/CalculoDNI.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex2/src/main/java/org/n1ex2/CalculoDNI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/src/main/java/org/n1ex2/DNINoValidException.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex2/src/main/java/org/n1ex2/DNINoValidException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/src/main/java/org/n1ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex2/src/main/java/org/n1ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/src/test/java/CalculoDNITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex2/src/test/java/CalculoDNITest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/target/classes/org/n1ex2/CalculoDNI.class" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex2/target/classes/org/n1ex2/CalculoDNI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/target/classes/org/n1ex2/DNINoValidException.class" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex2/target/classes/org/n1ex2/DNINoValidException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/target/classes/org/n1ex2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex2/target/classes/org/n1ex2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex2/target/test-classes/CalculoDNITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex2/target/test-classes/CalculoDNITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex3/n1ex3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex3/src/main/java/org/n1ex3/ExceptionProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex3/src/main/java/org/n1ex3/ExceptionProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1ex3/target/classes/org/n1ex3/ExceptionProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/n1ex3/target/classes/org/n1ex3/ExceptionProvider.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AvGEuj25KsR6AScPvE8edHBpyR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "18"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Test1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.n3ex1.Main" />
+      <module name="n3ex1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.n3ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIndexOutOfBoundsExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="n1ex3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayIndexOutOfBoundsExceptionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculoDNITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="n1ex2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculoDNITest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringLengthTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="n2ex1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StringLengthTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="n3ex1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Test1" />
+        <item itemvalue="Application.org.n3ex1.Main" />
+        <item itemvalue="TestNG.StringLengthTest" />
+        <item itemvalue="JUnit.CalculoDNITest" />
+        <item itemvalue="JUnit.ArrayIndexOutOfBoundsExceptionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c4da15-f4f0-4cb4-85c3-382c1b1bb263" name="Changes" comment="" />
+      <created>1655882538605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655882538605</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
