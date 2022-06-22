@@ -26,5 +26,4 @@ public class ComparaReferenciaObjectesTest {
         //assertThat(p1 == p2).isFalse();
     }
 
-
 }
